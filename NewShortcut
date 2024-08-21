@@ -1,0 +1,1 @@
+cmd /c start /min cmd /c cd /d "C:\inmutable\BluetoothToggleOnOff"^& call toggleBluetoothShortcut.bat
